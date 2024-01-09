@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/
+notes/*
+__pycache__
