@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-Cors
+h5py==3.10.0
+keras==2.15.0
+numpy==1.26.2
+scikit-learn
+gunicorn==21.2.0
